@@ -15,4 +15,4 @@ module.exports = {
   receivesAFunction,
   returnsANamedFunction,
   returnsAnAnonymousFunction
-}   
+}
